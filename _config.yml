@@ -1,0 +1,45 @@
+name: MLC Robotics Interest Group
+description: Our interest group explores the application of learning based approaches to robotics. We do this through organizing online events, creating informative blog posts, answering questions on our discord channel and participating in the broader robotics research community.
+baseurl: /robotics
+url: https://ml-collective.github.io
+
+
+markdown: kramdown
+permalink: /:categories/:title/
+future: true
+sass:
+  sass_dir: css
+
+plugins: ['jekyll-twitter-plugin']
+
+exclude:
+  - "*.branches"
+  - "*.class"
+  - "*.cpp"
+  - "*.csv"
+  - "*.fasta"
+  - "*.gz"
+  - "*.h"
+  - "*.hh"
+  - "*.ipynb"
+  - "*.jar"
+  - "*.java"
+  - "*.kml"
+  - "*.log"
+  - "*.mcc"
+  - "*.nb"
+  - "*.newick"
+  - "*.nex"
+  - "*.py"
+  - "*.R"
+  - "*.rb"
+  - "*.Rmd"
+  - "*.tiff"
+  - "*.tips"
+  - "*.trees"
+  - "*.tsv"
+  - "*.txt"
+  - "*.xml"
+  - "*.zip"
+  - "Gemfile"
+  - "Gemfile.lock"
