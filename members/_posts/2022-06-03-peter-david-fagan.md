@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Peter David Fagan
-robot: Panda Arm
+robot: Robot Grasping and Manipulation
 website: https://peterdavidfagan.com/
 handle: peterdavidfagan
 twitter: peterdavidfagan
